@@ -1,6 +1,6 @@
 # 🔬 LSPosed Detector
 
-**KernelSU Module — LSPosed Injection Trace Scanner**
+**Root Module — LSPosed Injection Trace Scanner**
 
 LSPosed Detector is a Root module that detects all **LSPosed** and **RElsposed** injection traces on your Android device using 5 comprehensive scan sections with a live WebUI dashboard built right into KSU Manager.
 
